@@ -14,14 +14,6 @@ I am a graduate of SMK TI Bali Global Denpasar and an active student at Bunda Mu
 ---
 [![](https://visitcount.itsvg.in/api?id=chiiient&icon=4&color=13)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiiient/chiiient/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiiient/chiiient/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chiiient/chiiient/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img src="https://raw.githubusercontent.com/chiiient/chiiient/output/snake.svg" alt="Snake animation" />
 
 ###
