@@ -22,15 +22,6 @@ I am a graduate of SMK TI Bali Global Denpasar and an active student at Bunda Mu
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/chiiient/chiiient/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
